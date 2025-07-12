@@ -1,6 +1,6 @@
 # VM Zsh Setup Script
 
-## Quickly install and configure zsh with autosuggestions on any Linux VM. Sets up intelligent command suggestions (gray text) based on your command history.
+Quickly install and configure zsh with autosuggestions on any Linux VM. Sets up intelligent command suggestions (gray text) based on your command history.
 
 ### Step 1:
 
