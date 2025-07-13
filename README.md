@@ -12,6 +12,10 @@ you wouldnt get any issues even when you use ghostty
 
 ### Step 2:
 
+copy the `setup-zh.sh` code from this repo and paste it in your vm shell - then save and exit 
+
+### Step 3:
+
 make it executable and run it
 
 ```bash
